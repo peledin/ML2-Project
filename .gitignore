@@ -159,6 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# datasets
+# too big files for github
 data/yelp_academic_dataset_review.json
-models
+models/sentiment_analysis_model_bert
+models/sentiment_analysis_model_bert_5k
+models/sentiment_analysis_model_cnn.h5
+models/sentiment_analysis_model_lstm.h5
