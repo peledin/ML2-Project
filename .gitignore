@@ -165,3 +165,10 @@ models/sentiment_analysis_model_bert
 models/sentiment_analysis_model_bert_5k
 models/sentiment_analysis_model_cnn.h5
 models/sentiment_analysis_model_lstm.h5
+
+preprocessing/preprocessed_reviews_chunk_0.json
+preprocessing/preprocessed_reviews_chunk_1.json
+preprocessing/preprocessed_reviews_chunk_2.json
+preprocessing/preprocessed_reviews_chunk_3.json
+preprocessing/preprocessed_reviews_chunk_4.json
+preprocessing/preprocessed_reviews.json
