@@ -4,7 +4,7 @@ This project aims to apply Machine Learning techniques to perform Sentiment Anal
 
 ## About the Project
 
-This project was created by [Dino Pelesevic](https://github.com/peledin) as part of the 'Machine Learning II (2023-FS) module' at [ZHAW](https://www.zhaw.ch/en/university/).
+This project was created by [Dino Pelesevic](https://github.com/peledin) as part of the `Machine Learning II (2023-FS) module` at [ZHAW](https://www.zhaw.ch/en/university/).
 
 ## Motivation
 
