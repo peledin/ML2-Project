@@ -161,6 +161,5 @@ cython_debug/
 
 # datasets
 data/yelp_academic_dataset_review.json
-data/yelp_academic_dataset_review_reduced_5k.json
 preprocessing 
 models
