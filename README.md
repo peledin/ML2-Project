@@ -54,3 +54,5 @@ pip install -r requirements.txt.
 ## Replicating Results
 
 For optimal results replication, I highly recommend performing the training process using Google Colab and leveraging the power of a GPU. While the code can still run on a CPU, it's important to note that training the models may be time-consuming without a GPU. In my own project, I utilized the V100 GPU (it performed faster than the A100) provided by Google Colab.
+
+If you don't have access to the faster GPU on Google Colab, you can use the smaller dataset and models provided in the repository.
